@@ -1,0 +1,12 @@
+Sat Jan 23 21:11:13 2021
+
+breseq -j 10 -r /data/migs/ref/C321deltaA.gb /data/dmux/210121/MichaelaJones/012121_73/DEP_S73_R1_001.fastq.gz /data/dmux/210121/MichaelaJones/012121_73/DEP_S73_R2_001.fastq.gz -o /data/migs/BreseqBucket/DEP
+
+Sat Jan 23 21:11:49 2021
+
+breseq -j 10 -r /data/migs/ref/C321deltaA.gb /data/dmux/210121/MichaelaJones/012121_73/DEP_S73_R1_001.fastq.gz /data/dmux/210121/MichaelaJones/012121_73/DEP_S73_R2_001.fastq.gz -o /data/migs/BreseqBucket/DEP
+
+Sat Jan 23 21:12:47 2021
+
+breseq -j 10 -r /data/migs/ref/GCF_000005845.2_ASM584v2_genomic.gbff /data/dmux/210121/MichaelaJones/012121_73/DEP_S73_R1_001.fastq.gz /data/dmux/210121/MichaelaJones/012121_73/DEP_S73_R2_001.fastq.gz -o /data/migs/BreseqBucket/DEP
+
